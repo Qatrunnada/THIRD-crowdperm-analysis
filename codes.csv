@@ -1,114 +1,119 @@
-Qcode,Ecode
-Doesn't trust the app,Doesn't trust the app
-User doesn't use the app,Usedoesn't use the app
-Couldn't use a feature,Couldn't use a feature
-Couldn't use a feature,Couldn't use a feature
-Couldn't use a feature,Couldn't use a feature
-The app won't work without the permission,The app won't work without the permission
-The app won't work without the permission,The app won't work without the permission
-Couldn't use a feature,Couldn't use a feature
-Couldn't use a feature,Couldn't use a feature
-The app doesn't need this permission,The app doesn't need this permission
-Don't trust the app,Don't trust the app
-The app won't work without the permission,The app won't work without the permission
-Couldn't use a feature,Couldn't use a feature
-The app won't work without the permission,The app won't work without the permission
-The app won't work without the permission,The app won't work without the permission
-The app won't work without the permission,The app won't work without the permission
-The app won't work without the permission,The app won't work without the permission
-Couldn't use a feature,Coul't use a feature
-Couldn't use a feature,Couldn't use a feature
-Couldn't use a feature,Couldn't use a feature
-The app won't work without the permission,The app won't work without the permission
-The app won't work without the permission,The app won't work without the permission
-"App is asking for too much info /The app doesn't need this permission","App is asking for too much info /The app doesn't need this permission"
-Couldn't use a feature,Couldn't use a feature
-Couldn't use a feature,Couldn't use a feature
-Couldn't use a feature,Couldn't use a feature
-The app won't work without the permission,The app won't work without the permission
-The app won't work without the permission,The app won't work without the permission
-The app won't work without the permission,The app won't work without the permission
-Couldn't use a feature,Couldn't use a feature
-Couldn't use a feature,Couldn't use a feature
-Couldn't use a feature,Couldn't use a feature
-The app won't work without the permission,The app won't work without the permission
-Couldn't use a feature,Couldn't use a feature
-"The app won't work without the permission/App is asking for too much info/The app doesn't need this permission","The p won't work without the permission/App is asking for too much info/The app doesn't need this permission"
-The app won't work without the permission,The app won't work without the permission
-The app won't work without the permission,The app won't work without the permission
-The app won't work without the permission,The app won't work without the permission
-Couldn't use a feature,Couldn't use a feature
-Couldn't use a feature,Couldn't use a feature
-The app won't work without the permission,The app won't work without the permission
-The app won't work without the permission,The app won't work without the permission
-The app won't work without the permission,The app won't work without the permission
-The app won't work without the permission,The app won't work without the permission
-Couldn't use a feature,Couldn't use a feature
-The app won't work without the permission,The app won't work without the permission
-The app won't work without the permission,The app won't work without the permission
-Couldn't use a feature,Couldn't use a feature
-The app won't work without the permission,The app won't work without the permission
-The app won't work without the permission,The app won't work without the permission
-Couldn't use a feature,Couldn't use a feature
-Couldn't use a feature,Couldn't use a feature
-Couldn't use a feature,Couldn't use a feature
-The app won't work without the permission,The app won't work without the permission
-The app won't work without the permission,The app won't work without the permission
-"App is asking for too much info/The app doesn't need this permission","App is asking for too much info/The app doesn't need this permission"
-Couldn't use a feature,Couldn't use a feature
-Couldn't use a feature,Couldn't use a feature
-The app won't work without the permission,The app won't work without the permission
-The app won't work without the permission,The app won't work without the permission
-Couldn't use a feature,Couldn't use a feature
-Couldn't use a feature,Couldn't use a feature
-App is asking for too much info,App is asking for too much info
-The app won't work without the permission,The app won't work without the permission
-The app won't work without the permission,The app won't work without the permission
-other: insufficient storage issue,other: insufficient storage issue
-The app won't work without the permission,The app won't work without the permission
-Couldn't use a feature,Couldn't use a feature
-The app won't work without the permission,The app won't work without the permission
-Don't trust the app,Don't trust the app
-Don't trust the app,Don't trust the app
-other: insufficient storage issue,other: insufficient storage issue
-Couldn't use a feature,Couldn't use a feature
-The app won't work without the permission,The app won't work without the permission
-Couldn't use a feature,Couldn't use a feature
-The app won't work without the permission,The app won't work without the permission
-The app won't work without the permission,The app won't work without the permission
-Couldn't use a feature,Couldn't use a feature
-The app won't work without the permission,The app won't work without the permission
-The app won't work without the permission,The app won't work without the permission
-The app won't work without the permission,The app won't work without the permission
-Couldn't use a feature,Couldn't use a feature
-Couldn't use a feature,Couldn't use a feature
-The app won't work without the permission,The app won't work without the permission
-Couldn't use a feature,Couldn't use a feature
-The app won't work without the permission,The app won't work without the permission
-The app won't work without the permission,The app won't work without the permission
-Other: couldn't update,Other: couldn't update
-Couldn't use a feature,Couldn't use a feature
-The app won't work without the permission,The app won't work without the permission
-The app won't work without the permission,The app won't work without the permission
-Couldn't use a feature,Couldn't use a feature
-Don't trust the app,Don't trust the app
-The app won't work without the permission,The app won't work without the permission
-The app won't work without the permission,The app won't work without the permission
-The app won't work without the permission,The app won't work without the permission
-The app won't work without the permission,The app won't work without the permission
-Don't trust the app,Don't trust the app
-The app won't work without the permission,The app won't work without the permission
-Couldn't use a feature,Couldn't use a feature
-Couldn't use a feature,Couldn't use a feature
-The app won't work without the permission,The app won't work without the permission
-The app won't work without the permission,The app won't work without the permission
-Other: too many notifications,Other: too many notifications
-Couldn't use a feature,Couldn't use a feature
-Couldn't use a feature,Couldn't use a feature
-Couldn't use a feature,Couldn't use a feature
-Couldn't use a feature,Couldn't use a feature
-The app doesn't need this permission,The app doesn't need this permission
-Couldn't use a feature,Couldn't use a feature
-The app won't work without the permission,The app won't work without the permission
-The app won't work without the permission,The app won't work without the permission
-The app won't work without the permission,The app won't work without the permission
+TurkerID,storyPermission,storyApp,storyProblem,Ecode,Qcode
+A2BZY06YRWGEDL,Microphone,Messenger I believe,They listen,mistrust the app,mistrust the app
+A3B9M6H2PTCQWX,I don't remember,nfl prime time,"I didn't want the app, it was bloatware that came with the device.",nothing,nothing
+AXT49VCFZDGW8,Location,snapchat,i couldnt use specific filters,Functionality-feature,Functionality-feature
+A1MURUJBBDJWM6,Location,I believe i had had,Many services are location based,Functionality-feature,Functionality-feature
+A1W7QLLENVP2AE,Location,Google Maps,It didn't register,Functionality-feature,Functionality-feature
+A1N9WMQ23RWU9Q,I don't remember,There were some but,"The problem I usually encounter is that if I don't give the app access to what it asks, it won't work. I can't remember which apps gave me this issue, but it has happened in the past more than once. More than a few times, in fact.",Functionality-app,Functionality-app
+AF9NBMEJ385W9,I don't remember,Fit bit,it wouldn't sync correctly,Functionality-feature,Functionality-feature
+A3VIQ9XPOYB8K6,Camera,dont recall,i couldn't access it unless i gave it access,Functionality-app,Functionality-app
+A3QPVH0DRW0ZQV,Camera,QR Reader,It needed to see the actual QR code to read it,Functionality-feature,Functionality-feature
+A1601UNFFAAQOI,Location,It was a photo print,"Kept prompting for location services, which I didn't see as necessary and try to keep off as much as possible","Functionality-feature,unnessesary permission",unnessesary permission
+A12MV66U9VGLQ1,I don't remember,Don't know..just re,I just didn't want to allow the new app those permissions so couldn't comp late installation,"Functionality-app, unnessesary permission",mistrust the app
+A5X1KZ9CCHREK,Contacts,i don't remember,It don't let me use the app,Functionality-app,Functionality-app
+A3EAUAU8V3B5S7,Camera,Instagram,I couldn't browse without granting access,Functionality-feature,Functionality-feature
+A4T4577P6JL6R,Camera,panorama camera,the app ceased to function because it could not access the camera,Functionality-feature,Functionality-app
+A3U7FRXVDY12RJ,Location,square,it won't work without location access,Functionality-feature,Functionality-app
+A1E77HZO63E334,I don't remember,Facebook Messenger,I was not able to run the app unless I provided it permissions I am not sure it really needed.,unnessesary permission,"Functionality-app,unnessesary permission"
+A1DIGREVLNOXT3,Location,I don't recall.,it did not work.,Functionality-app,Functionality-app
+A3OV174HQJIJK8,Camera,chase,couldn't deposit check on mobile app without granting camera permission,Functionality-feature,Functionality-feature
+A28LARVABNF9BX,I don't remember,"not sure, I have don","if you didn't allow permission, some apps won't let you use features and continue to install",Functionality-feature,Functionality-feature
+A3174YB32Y52W2,Microphone,dont remember,needed access to the microphone,Functionality-feature,Functionality-feature
+A3GDUZQGHRXUJI,Microphone,I don't remember ho,It would not allow me to use the app,Functionality-app,Functionality-app
+A3SG23IVI6PS0L,I don't remember,don't remember,wouldn't work until I enabled all the permissions,Functionality-app,Functionality-app
+A2XLM2JZ0A2J8R,Storage,I already uninstall,the app requires many authorizations that are out of their nature,unnessesary permission,unnessesary permission
+A2BP8SSKYDZZ64,Microphone,messenger,couldnt use video chat,Functionality-feature,Functionality-feature
+A2SE5QBXBBDL3N,Location,Snapchat,I didn't get any location filters/recommendations,Functionality-feature,Functionality-feature
+A2RH621WK2VZJ0,Camera,Instagram,"I guess I had denied the use of the camera and when I went to take a picture, it told me that I would have to change my settings.",Functionality-feature,Functionality-feature
+A2W55J9T0JDP2O,Phone,I can't remember ex,It just wouldn't work and repeated to tell me I had to accept the permission. I think it was Samsung Health.,Functionality-app,Functionality-app
+A3OSOGJTD4XD9U,Camera,Facebook,required permission,Functionality-feature,Functionality-app
+A2LAWUYEMWODHH,Location,maps of some sort,couldnt locate me,Functionality-feature,Functionality-feature
+A3SMP47XOFZHSW,Location,Fitbit,unable to track,Functionality-feature,Functionality-feature
+A1POXSCJ9XAV74,Camera,QR Reader,they needed permission to use my camera so they can scan barcodes,Functionality-feature,Functionality-feature
+A2INXY39KBM92F,Location,weather channel,it obviously needs my location in order to actively track and update weather data based on my current location.,Functionality-feature,Functionality-feature
+A21KGSK2BDVWOA,Location,thescore,Had to reset app with permission,Functionality-app,nothing
+A1Z2PN56VHHKNM,Camera,dulingo,I could access what I needed,Functionality-feature,Functionality-feature
+A1S9EY8YUIGDYV,I don't remember,"Don't recall, some","Disabling permissions it didn't seem to need (phone, camera, mic) made the app not be able to run",Functionality-app,"Functionality-app,mistrust the app"
+AAEZQL4J6CQGM,Location,dont remember,coukdnt use it,Functionality-app,Functionality-app
+A1J6Z70T78B35V,Camera,Facebook,I couldnt use my camera or load the app,Functionality-app,Functionality-app
+A1KTPYX40PRLVW,Camera,Snapchat,It kept freezing. I had to reinstall it and grant permission.,Functionality-app,Functionality-app
+A2XSAZ0Y6HPDQA,Location,wtforecast,no weather report,Functionality-feature,Functionality-feature
+A1WOCD9SAYI07V,Storage,Snapchat,It would not save my snap to my phone unless I enabled access to storage.,Functionality-feature,Functionality-feature
+A2REJHHCX9OHFI,I don't remember,I don't remember,I think I couldn't use the app withjout allowing permisdions,Functionality-app,Functionality-app
+A10VYQMVSHNFCV,I don't remember,"I don't remember, I",the app wouldn't launch,Functionality-app,Functionality-app
+,Microphone,Facebook messenger,it didn't work properly without access,Functionality-app,Functionality-app
+A285E5FTA8GGID,Location,dont know,i couldnt use and uninstalled,Functionality-app,Functionality-app
+AZJKB1D4AFMQY,Camera,ibotta,i couldnt use the app for capturing pictures outside of the app,Functionality-app,Functionality-feature
+A22EDUBB602EJD,Location,lyft,"could not use at all, completely Geo dependent",Functionality-feature,Functionality-app
+A3UPZ88FI1EJC,I don't remember,I do not remember be,I did not want to grant access across the board to the app because it wasn't worth having for all I had to grant access to,unnessesary permission,nothing
+A2NGMLBFZ3YQP5,Location,StreetBees,It won't do anything without location,Functionality-app,Functionality-app
+A3C49ON1P4KF40,Location,Facebook,I had trouble turning off the feature where the photos you post are tagged with a location,Functionality-feature,Functionality-feature
+A2798F0ZHDDZ78,I don't remember,I don't remember,I got an error saying the app would not function without the permission,Functionality-app,Functionality-app
+AMYRVTU53MLYO,I don't remember,there have been a lo,app didnt work,Functionality-app,Functionality-app
+A5T9IFDZ3W4T6,Location,the name of the app,the problem was that when I went to look up the weather it would bring up a blank page because it did not know my location.,Functionality-feature,Functionality-feature
+A2VR9O234UCT9T,Location,fitbit,had trouble syncing,Functionality-feature,Functionality-feature
+A2QQFGD7K7AHK8,Location,maps,couldn't read my location,Functionality-feature,Functionality-feature
+A3NYQPXI8I57R1,Camera,I don't remember,it would not access the app at all,Functionality-app,Functionality-app
+A2TH9DIRISH8FE,Camera,its not on this devi,it wouldn't work,Functionality-app,Functionality-app
+AA8MK8AWWWL62,Camera,flashlight,"it was supposed to be a simple flashlight app, but it requires all permissions to work properly.",unnessesary permission,"unnessesary permission,mistrust the app"
+A1PP6DN7HB6Q9P,Location,TopHat,Could not locate me to verify location for attendance in class.,Functionality-feature,Functionality-feature
+A27TKWMGFUCDMY,Microphone,voice recorder,couldnt access microphone,Functionality-feature,Functionality-feature
+A33YV3NK3GWR8V,Location,Google play,can't use it,Functionality-app,Functionality-app
+A2NCNAIYI022X9,Microphone,I can't remember it,you need to enable the microphone to use it,Functionality-feature,Functionality-app
+A3BD4HSBURZSIT,I don't remember,Symantic,It made the icons huge,nothing,nothing
+AIX6PAGON01EE,Camera,Tumblr,wouldnt let me upload photos,Functionality-feature,Functionality-feature
+AKP3UXJ0TDPVO,Location,uber,I couldn't get it to work,Functionality-app,Functionality-app
+A02V2W10EPTMQ,Microphone,"I'm not sure, it wa",it wanted access to my microphone,Functionality-feature,mistrust the app
+A12C01LD8TO3Y8,Phone,can't remember exac,wanted to much information,unnessesary permission,"unnessesary permission,mistrust the app"
+A37N5X89RE99B0,Camera,i dont remember,it needed access to my camera to work properly all the time. it was likely instagram,Functionality-feature,Functionality-app
+A2UTHR7YGLN9DC,Location,maps uber Lyft,did not work properly and would repeteadly ask for permission.,Functionality-app,Functionality-app
+AZ2DZLLMYQF1P,Storage,candy photos,not enough space,nothing,nothing
+A1HKB73TUJ5Z42,I don't remember,I don't remember if,I don't remember having a problem.,nothing,nothing
+A20WI3VW3CBOWN,Location,I don't remember,it wouldn't work unless I gave permission,Functionality-app,Functionality-app
+A1QZ7RWVIXCBH9,Camera,collage maker,unable to take pictures to use in app,Functionality-feature,Functionality-feature
+A17SE6TSFTEUHM,Contacts,show box,it didn't work,Functionality-app,Functionality-app
+ASUYD8BPYM85M,Camera,Tinder,it wanted me to take a pic of myself,Functionalty-feature,Functionalty-feature
+AUJU22WBACIBR,Microphone,Skype,I did not like skype and did not enable microphone,nothing,mistrust the app
+A2VPMK37V0JJ5,Storage,myfittnesspal,storage insufficient,nothing,nothing
+A17N3LOP5HGSQ8,Storage,i am unsure.,"it needed access to storage to add and pull fimes, i didnt grant it and therefore couldnt perform functions i needed.",Functionality-feature,Functionality-feature
+A16H2A65RPIJE1,Storage,Talkatone,It needed the permissions to work,Functionality-app,Functionality-app
+A2SF0TUK6XTPCO,Camera,harborone,I needed to take a picture of a check to deposit.,Functionality-feature,Functionality-feature
+AEMKB98WAW7YA,Location,pokemon go,it uses location as a feature,Functionality-feature,Functionality-feature
+A277U5B7IPWZSY,Microphone,Alexa,It would not work properly and my Amazon Music app was not working.,Functionality-app,Functionality-app
+A1QAXGXLG5SYUR,Location,Facebooo,Wouldn't allow me to use a certain feature from external link because I denied location,Functionality-feature,Functionality-feature
+AB8FEGGUOZXXA,I don't remember,don't know,app crashed,Functionality-app,Functionality-app
+A1QP59PUWJJMJY,Camera,fox eyes,they wanted the camera on every time I opened the app.,Functionality-feature,"Functionality-feature,mistrust the app"
+A7MW43YUFAPE9,Contacts,I don't remember,I couldn't use it,Functionality-app,Functionality-app
+A1USN4KHILLJFN,Microphone,mixlr,i had to enable the microphone because you have to record,Functionality-feature,Functionality-feature
+A2ALBHYA6M67ZT,Location,Google map,unable to locate,Functionality-feature,Functionality-feature
+AB0ERVDNMMLYS,Camera,360cam,it did not open,Functionality-app,Functionality-app
+A1A7KLOCEERE60,Location,shopkick,I wanted points for going in a store and location was disabled,Functionality-feature,Functionality-feature
+A2SHW0VA0MJ8N0,Microphone,facebook,it would not let me enter the app unless I allowed permission,functionality-feature,Functionality-app
+A1DENY90PJEZB7,Camera,"I do not remember, i",I only wanted to use the app to edit existing photos not ones through my camera,unnessesary permission,Functionality-feature
+A2U8EBN3IPMJ19,Camera,instagram,it doesn't work without the permission,Functionality-app,Functionality-app
+A1LQLIHRB3SCXN,Storage,Magisk Manager,Could not install update from the app itself.,Functionality-app,Functionality-feature
+AJQCFLT9M4RKF,Location,Google maps,it could not give me directions without asking for my location,Functionality-feature,Functionality-feature
+A33UQADFRXM0N,Contacts,"I don't recall, a g",it said it couldn't work with permissions so I deleted it.,Functionality-app,Functionality-app
+A1CB2A9NEL2D7E,Location,Pocket Points,Didn't work,Functionality-app,Functionality-app
+A1HM2VBI4T638R,Camera,I believe that it wa,I couldn't call my father unless I would allow the app to use my camera and gallery,Functionality-feature,Functionality-feature
+A8562J49TRH3C,Microphone,don't remember but,I don't like giving mic access to apps,mistrust the app,mistrust the app
+AC6P8A8PDBJPD,Location,Maps,Would not allow me to launch.,Functionality-app,Functionality-app
+A2Y05OCB1H60K3,Contacts,"Trivia crack, and so",just wouldnt work unless I granted all permissions,Functionality-app,Functionality-app
+A37Q40126A4RNA,Contacts,flashlight,woudnt open,Functionality-app,Functionality-app
+A2ASTDMWBCFIP0,Storage,I don't remember tr,"All I remember is when I denied it, the app just closed out to where I couldn't use it.",Functionality-app,Functionality-app
+A1HOSLU4DG2MDS,Contacts,Instagram,did not want my contacts to be added to my account,unnessesary permission,mistrust the app
+A1160COTUR26JZ,Contacts,I don't remember,It would close out the app,Functionality-app,Functionality-app
+A302M81U0HM7RJ,Storage,Don't remember exac,It wouldn't save without that access allowed,Functionality-feature,Functionality-feature
+A1KF05U5IO9AFG,Camera,Snapchat,I couldn't take pictures without allowing the permission.,Functionality-feature,Functionality-feature
+AOX8BJNGGNDZH,Location,Google Maps,App crashed due to turning off location permissions,Functionality-app,Functionality-app
+A17F6MB9SZYV57,Location,Maps,Did not work,Functionality-app,Functionality-app
+A6JOC24PSUEEC,Location,Snapchat,It wanted my location turned on and kept bothering me with reminders.,unnessesary permission,unnessesary permission
+AXAY0M3ATGPAR,Camera,Facebook,tried to upload a photo and couldn't unless I granted camera access,Functionality-feature,Functionality-feature
+AOL04T29G35P4,Storage,Facebook,couldn't upload pictures,Functionality-feature,Functionality-feature
+A2I3FCE7LMITQS,Location,I dont remember,Location permissions allows to identify where i am,Functionality-feature,mistrust the app
+A3S2R1NK6HZ9KP,Camera,Perfect 365,It needed to take pictures but couldn't since I denied access,Functionality-feature,Functionality-feature
+A2SFD01V5SDFTA,I don't remember,Michaels,They wanted access to a bunch of settings that I did not think were necessary for that app functionality.,unnessesary permission,unnessesary permission
+ALH1K6ZAQQMN7,Location,Some pokemon go spin,It was kind of obvious issue. Since it couldn't locate me my in game character wouldn't move,Functionality-feature,Functionality-app
+A3KW8RIWBQ1O7F,I don't remember,im not sure,I cannot recall but I did have this issue before,nothing,nothing
+A23LLMPC8OX3DD,I don't remember,I don't remember,I couldn't use it unless I accepted the primmission,Functionality-app,Functionality-app
+A2J9AHXZBB37XU,Contacts,I don't remember sp,It wouldn't let me use the app without the permissions.,Functionality-app,Functionality-app
